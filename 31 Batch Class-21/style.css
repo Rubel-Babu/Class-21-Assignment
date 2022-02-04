@@ -1,0 +1,26 @@
+.navbar .container{
+    width: 90% !important;
+    margin: 0 auto;
+}
+
+
+
+.carousel-item img{
+    height: 800px;
+}
+
+.carousel-caption{
+    margin-bottom: 320px;
+}
+.carousel-caption h5{
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.table-form{
+    background: #F8F9FA;
+}
+
+.stretched{
+    background: #F8F9FA;
+}
